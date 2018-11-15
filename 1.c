@@ -3,4 +3,8 @@ main()
 {
 	printf("hello\n");
 	printf("goodbye\n");
+	if 
+	{
+		printf("good:");
+	}
 }
